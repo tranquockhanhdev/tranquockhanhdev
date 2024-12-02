@@ -18,5 +18,4 @@
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100011287600864" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/19808693/khanh-tran" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tranquockhanhdev&show_icons=true&locale=en" alt="tranquockhanhdev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tranquockhanhdev&" alt="tranquockhanhdev" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tranquockhanhdev&show_icons=true&locale=en&layout=compact" alt="tranquockhanhdev" /></p>
